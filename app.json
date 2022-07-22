@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "temperature-borad-app",
+    "slug": "temperature-borad-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
